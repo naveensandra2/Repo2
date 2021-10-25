@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 5ED7-7B7B
+
+ Directory of C:\Users\naidu\Desktop\My Project
+
+10/25/2021  11:25 AM    <DIR>          .
+10/25/2021  10:35 AM    <DIR>          ..
+10/25/2021  11:25 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  243,243,565,056 bytes free
